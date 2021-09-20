@@ -1,8 +1,8 @@
-# Group TEAM_NUMBER
+# Group 49
 Group Name: TEAM_NAME
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/1wZgoSLez-makJr6LRtH-ONQg6kMaONhWU7LvJLphxec/edit)
 
-Team Members: vivencp2, xdzhang2. cezhong2
+Team Members: vivencp2, xdzhang2. cezhong2, achinta3, mal13
 
-Project Manager: PM_NETID
+Project Manager: tansihq3
