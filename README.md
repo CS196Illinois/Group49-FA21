@@ -1,5 +1,5 @@
 # Group 49
-Group Name: TEAM_NAME
+Group Name: Group 49
 
 [MVP Link](https://docs.google.com/document/d/1wZgoSLez-makJr6LRtH-ONQg6kMaONhWU7LvJLphxec/edit)
 
