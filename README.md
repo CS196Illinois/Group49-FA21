@@ -5,4 +5,4 @@ Group Name: Group 49
 
 Team Members: vivencp2, xdzhang2. cezhong2, achinta3, mal13
 
-Project Manager: tansihq3
+Project Manager: tanishq3
