@@ -1,12 +1,6 @@
-def work():
-    import ee
-    ee.Initialize()
-    image = ee.Image('srtm90_v4')
-    print(image.getInfo())
+import ee
+ee.Initialize()
 
-work()
-
-"""
 # Import the MODIS land cover collection.
 lc = ee.ImageCollection('MODIS/006/MCD12Q1')
 
@@ -48,4 +42,3 @@ print('Average daytime LST at urban point:', round(lst_urban_point*0.02 -273.15,
 # Print the land cover type at the point.
 lc_urban_point = lc.first().sample(u_poi, scale).first().get('LC_Type1').getInfo()
 print('Land cover value at urban point is:', lc_urban_point)
-"""
