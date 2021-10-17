@@ -1,36 +1,29 @@
 import ee
+
 ee.Initialize()
 
-# Import the MODIS land cover collection.
-lc = ee.ImageCollection('MODIS/006/MCD12Q1')
-
-# Import the MODIS land surface temperature collection.
-lst = ee.ImageCollection('MODIS/006/MOD11A1')
-
-# Import the USGS ground elevation image.
-elv = ee.Image('USGS/SRTMGL1_003')
+# Import the Current Glacier Collection
+data = ee.FeatureCollection("GLIMS/current")
 
 # Initial date of interest (inclusive).
-i_date = '2017-01-01'
+initial_date = '2000-01-01'
 
 # Final date of interest (exclusive).
-f_date = '2020-01-01'
+final_date = '2020-01-01'
 
-# Selection of appropriate bands and dates for LST.
-lst = lst.select('LST_Day_1km', 'QC_Day').filterDate(i_date, f_date)
+# Correct bands of data
+data = data.filterDate(initial_date, final_date)
 
-# Define the urban location of interest as a point near Lyon, France.
-u_lon = 4.8148
-u_lat = 45.7758
-u_poi = ee.Geometry.Point(u_lon, u_lat)
+# Location of the biggest glacer in Alaska: Bering Glacier
+beringGlacier_lon = -143.0240662617101
+beringGlacier_lat = 60.406796113351575
+beringGlacier_poi = ee.Geometry.Point(beringGlacier_lon, beringGlacier_lat)
 
-# Define the rural location of interest as a point away from the city.
-r_lon = 5.175964
-r_lat = 45.574064
-r_poi = ee.Geometry.Point(r_lon, r_lat)
+scale = 306  # scale in meters
 
-scale = 1000  # scale in meters
+print(data)
 
+"""
 # Print the elevation near Lyon, France.
 elv_urban_point = elv.sample(u_poi, scale).first().get('elevation').getInfo()
 print('Ground elevation at urban point:', elv_urban_point, 'm')
@@ -42,3 +35,4 @@ print('Average daytime LST at urban point:', round(lst_urban_point*0.02 -273.15,
 # Print the land cover type at the point.
 lc_urban_point = lc.first().sample(u_poi, scale).first().get('LC_Type1').getInfo()
 print('Land cover value at urban point is:', lc_urban_point)
+"""
