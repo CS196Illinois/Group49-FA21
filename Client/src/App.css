@@ -1,5 +1,5 @@
 nav.navbar {
-  background: whitesmoke;
+  background: #a5ebfd;
 }
 
 .navbar-container {
@@ -71,7 +71,7 @@ nav a.is-active {
     margin-right: 0;
     position: absolute;
     width: 75%;
-    background: whitesmoke;
+    background: #a5ebfd;
     z-index: 99;
     margin-top: 3rem;
     float: right;
@@ -110,4 +110,15 @@ nav a.is-active {
     width: 0;
     overflow: hidden;
   }
+}
+
+.home {
+  background: #a5ebfd;
+}
+.center {
+  text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
 }
