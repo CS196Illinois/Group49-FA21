@@ -8,10 +8,10 @@ myclient = MongoClient("mongodb+srv://Viven:Group49@glacier.cxwbq.mongodb.net/my
 db = myclient["Factors"]
    
 # Creating the collection
-Collection = db["Total GreenHouse Gas Emissions"]
+Collection = db["Snowfall in millimeters"]
   
 # Opening the json file
-with open('/Users/Viven/Group49-FA21/Project/total_greenhouse_gas_emissions.json') as file:
+with open('/Users/Viven/Group49-FA21/Project/Data/snowfall.json') as file:
     file_data = json.load(file)
       
 # Inserting the loaded data in the Collection
