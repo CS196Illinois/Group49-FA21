@@ -1,0 +1,182 @@
+[
+  {
+    "Year": 1990,
+    "USA": 5541854.7,
+    "Canada": 544707.237,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6086561.937
+  },
+  {
+    "Year": 1991,
+    "USA": 5475013.303,
+    "Canada": 534372.677,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6009385.98
+  },
+  {
+    "Year": 1992,
+    "USA": 5600146.031,
+    "Canada": 562265.32,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6162411.351
+  },
+  {
+    "Year": 1993,
+    "USA": 5736898.998,
+    "Canada": 572000.479,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6308899.477
+  },
+  {
+    "Year": 1994,
+    "USA": 5808338.135,
+    "Canada": 593120.178,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6401458.313
+  },
+  {
+    "Year": 1995,
+    "USA": 5920545.037,
+    "Canada": 626574.181,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6547119.218
+  },
+  {
+    "Year": 1996,
+    "USA": 6110024.807,
+    "Canada": 641978.685,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6752003.492
+  },
+  {
+    "Year": 1997,
+    "USA": 6180683.11,
+    "Canada": 652937.162,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6833620.272
+  },
+  {
+    "Year": 1998,
+    "USA": 6220469.703,
+    "Canada": 647024.422,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6867494.125
+  },
+  {
+    "Year": 1999,
+    "USA": 6268830.098,
+    "Canada": 674254.607,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6943084.705
+  },
+  {
+    "Year": 2000,
+    "USA": 6459657.938,
+    "Canada": 711770.284,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 7171428.222
+  },
+  {
+    "Year": 2001,
+    "USA": 6350678.42,
+    "Canada": 685252.427,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 7035930.847
+  },
+  {
+    "Year": 2002,
+    "USA": 6428623.678,
+    "Canada": 706282.51,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 7134906.188
+  },
+  {
+    "Year": 2003,
+    "USA": 6464322.105,
+    "Canada": 720393.316,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 7184715.421
+  },
+  {
+    "Year": 2004,
+    "USA": 6680329.978,
+    "Canada": 749383.582,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 7429713.56
+  },
+  {
+    "Year": 2005,
+    "USA": 6634978.191,
+    "Canada": 746907.829,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 7381886.02
+  },
+  {
+    "Year": 2006,
+    "USA": 6497171.12,
+    "Canada": 726242.208,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 7223413.328
+  },
+  {
+    "Year": 2007,
+    "USA": 6650815.956,
+    "Canada": 743780.232,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 7394596.188
+  },
+  {
+    "Year": 2008,
+    "USA": 6432959.437,
+    "Canada": 722799.636,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 7155759.073
+  },
+  {
+    "Year": 2009,
+    "USA": 6015757.918,
+    "Canada": 669286.122,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6685044.04
+  },
+  {
+    "Year": 2010,
+    "USA": 6207221.843,
+    "Canada": 695497.908,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6902719.751
+  },
+  {
+    "Year": 2011,
+    "USA": 6026839.395,
+    "Canada": 707543.115,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6734382.51
+  },
+  {
+    "Year": 2012,
+    "USA": 5778924.675,
+    "Canada": 707736.877,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6486661.552
+  },
+  {
+    "Year": 2013,
+    "USA": 5976120.17,
+    "Canada": 721177.631,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6697297.801
+  },
+  {
+    "Year": 2014,
+    "USA": 6026445.244,
+    "Canada": 719063.471,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6745508.715
+  },
+  {
+    "Year": 2015,
+    "USA": 5907263.07,
+    "Canada": 727110.168,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6634373.238
+  },
+  {
+    "Year": 2016,
+    "USA": 5677531.92,
+    "Canada": 707029.324,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6384561.244
+  },
+  {
+    "Year": 2017,
+    "USA": 5717227.304,
+    "Canada": 716788.406,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6434015.71
+  },
+  {
+    "Year": 2018,
+    "USA": 5870013.024,
+    "Canada": 736886.987,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6606900.011
+  },
+  {
+    "Year": 2019,
+    "USA": 5769117.777,
+    "Canada": 740122.958,
+    "Total emissions including LULUCF (Tonnes of CO2 equivalent)": 6509240.735
+  }
+]
