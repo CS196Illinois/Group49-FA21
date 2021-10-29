@@ -1,5 +1,8 @@
-# Group 49
-Group Name: Group 49
+# Absolute Zero
+
+Group Name: Absolute Zero
+
+Group Number: 49
 
 [MVP Link](https://docs.https://docs.google.com/document/d/1wZgoSLez-makJr6LRtH-ONQg6kMaONhWU7LvJLphxec/edit?usp=sharinggoogle.com/document/d/1wZgoSLez-makJr6LRtH-ONQg6kMaONhWU7LvJLphxec/edit?usp=sharing)
 
