@@ -17,3 +17,4 @@ https://developers.google.com/earth-engine/tutorials/tutorial_api_05
 
 https://gis.stackexchange.com/questions/274612/apply-a-cloud-mask-to-a-landsat8-collection-in-google-earth-engine-time-series
 
+5a + 4b + 3c + 2d = e
