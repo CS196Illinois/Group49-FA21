@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e716166c-c78c-4d26-89ea-d828c06117c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Project/EarthEngine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/EarthEngine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/glacier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/glacier.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zLNEXmgdMisnGVFoanVBLHyQGO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="glacier" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Group49-FA21" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../PycharmProjects/CS196Group49/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/glacier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e716166c-c78c-4d26-89ea-d828c06117c7" name="Default Changelist" comment="" />
+      <created>1633923296789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633923296789</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fixing key leak">
+      <created>1633924082559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633924082559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixing key leak">
+      <created>1633924136036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633924136036</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixing key leak" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing key leak" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634494589866">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1634494589866" />
+    <state x="303" y="35" key="CommitChangelistDialog2" timestamp="1633924135874">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="303" y="35" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1633924135874" />
+    <state x="507" y="220" key="FileChooserDialogImpl" timestamp="1633923477323">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="507" y="220" key="FileChooserDialogImpl/0.25.1440.875@0.25.1440.875" timestamp="1633923477323" />
+    <state width="1419" height="228" key="GridCell.Tab.0.bottom" timestamp="1634494856506">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1634494856506" />
+    <state width="1419" height="228" key="GridCell.Tab.0.center" timestamp="1634494856504">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1634494856504" />
+    <state width="1419" height="228" key="GridCell.Tab.0.left" timestamp="1634494856503">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1634494856503" />
+    <state width="1419" height="228" key="GridCell.Tab.0.right" timestamp="1634494856505">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1634494856505" />
+    <state x="228" y="98" key="SettingsEditor" timestamp="1633923622746">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="228" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1633923622746" />
+    <state x="319" y="186" key="Vcs.Push.Dialog.v2" timestamp="1633924141128">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="319" y="186" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1633924141128" />
+    <state x="510" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1634494751705">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="510" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875@0.25.1440.875" timestamp="1634494751705" />
+  </component>
+</project>
