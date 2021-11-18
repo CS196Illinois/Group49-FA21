@@ -82,28 +82,12 @@ function Home() {
   const [newUserInfo, setNewUserInfo] = useState({
     profileImages: []
   });
-  const updateUploadedFiles = (files) =>
-    setNewUserInfo({ ...newUserInfo, profileImages: files });
-
-  const handleSubmit = (event) => {
-    event.preventDefault();
-    //logic to create new user...
-  };
   return (
     <div>
       <h1>Home page</h1>
       <img src={companyLogo} alt="BigCo Inc. logo" height = {500} width = {500} className="center"/>
 
       
-    <form onSubmit={handleSubmit}>
-      <FileUpload
-        accept=".jpg,.png,.jpeg"
-        label="Profile Image(s)"
-        multiple
-        updateFilesCb={updateUploadedFiles}
-      />
-      <button type="submit">Create New User</button>
-    </form>
     </div>
   );
 }
