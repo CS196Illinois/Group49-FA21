@@ -9,3 +9,6 @@ Group Number: 49
 Team Members: vivencp2, xdzhang2. cezhong2, achinta3, mal13
 
 Project Manager: tanishq3
+
+
+### NDSI = -0.19408(Surface Temperature in Celcius) + 0.266318
